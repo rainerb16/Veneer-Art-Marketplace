@@ -7,7 +7,7 @@ In this project I've developed classes and objects that represent the various re
 This includes use of methods, Dunder methods, functions and data types.
 
 
-<h3><b>How to run</h3><b>
+<h3><b>How To Run</h3></b>
 - Initialize git $ bash in terminal
 - use python3 veneer.py
 - Be sure to uncomment testing parameters at the bottom of the code to test
