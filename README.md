@@ -9,7 +9,5 @@ This includes use of methods, Dunder methods, functions and data types.
 
 <h3><b>How To Run</h3></b>
 -Initialize git $ bash in terminal
-
 -Use python3 veneer.py
-
 -Be sure to uncomment testing parameters at the bottom of the code to test
